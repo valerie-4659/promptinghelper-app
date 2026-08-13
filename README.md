@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/banner.png" alt="SD Prompt Manager Tool" width="100%">
+  <img src="assets/banner.jpg" alt="" width="100%">
 </p>
 
-<h1 align="center">SD Prompt Manager Tool</h1>
+<h1 align="center">Prompting Helper</h1>
 
 <p align="center">
   Build, manage and post Stable Diffusion prompts.<br>
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/valerie-4659/sd-prompt-manager-app/releases/latest"><b>⬇ Download</b></a> ·
-  <a href="https://github.com/valerie-4659/sd-prompt-manager-app/wiki">Wiki</a> ·
-  <a href="https://github.com/valerie-4659/sd-prompt-manager-app/issues">Report a problem</a> ·
+  <a href="https://github.com/valerie-4659/promptinghelper-app/releases/latest"><b>⬇ Download</b></a> ·
+  <a href="https://github.com/valerie-4659/promptinghelper-app/wiki">Wiki</a> ·
+  <a href="https://github.com/valerie-4659/promptinghelper-app/issues">Report a problem</a> ·
   <a href="https://valerie-4659.itch.io/sd-prompt-manager">itch.io</a>
 </p>
 
@@ -39,7 +39,7 @@ desktop application for keeping that straight.
 ## Install
 
 Download the file for your system from the
-[latest release](https://github.com/valerie-4659/sd-prompt-manager-app/releases/latest).
+[latest release](https://github.com/valerie-4659/promptinghelper-app/releases/latest).
 
 | System | File |
 |---|---|
@@ -75,10 +75,10 @@ uploaded on its own.
 
 ## Something broken?
 
-[Open an issue](https://github.com/valerie-4659/sd-prompt-manager-app/issues/new) and include
+[Open an issue](https://github.com/valerie-4659/promptinghelper-app/issues/new) and include
 your platform, the version from the application, and what you did just before it went wrong.
 
-The [Wiki](https://github.com/valerie-4659/sd-prompt-manager-app/wiki) covers installation,
+The [Wiki](https://github.com/valerie-4659/promptinghelper-app/wiki) covers installation,
 first steps and troubleshooting.
 
 ## About this repository
