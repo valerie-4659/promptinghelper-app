@@ -11,6 +11,8 @@
 
 <p align="center">
   <a href="https://github.com/valerie-4659/promptinghelper-app/releases/latest"><b>⬇ Download</b></a> ·
+  <a href="docs/PromptingHelperOverview.pdf">Overview (PDF)</a> ·
+  <a href="docs/PromptingHelperGuide.pdf">User guide (PDF)</a> ·
   <a href="https://github.com/valerie-4659/promptinghelper-app/wiki">Wiki</a> ·
   <a href="https://github.com/valerie-4659/promptinghelper-app/issues">Report a problem</a> ·
   <a href="https://valerie-4659.itch.io/sd-prompt-manager">itch.io</a>
@@ -35,6 +37,15 @@ desktop application for keeping that straight.
 | 🤖 **AI Optimizer** | Prompt refinement through OpenAI or Grok, with your own API key |
 | 🔍 **Image Analysis** | Read a prompt back out of an image with OpenAI, Anthropic or Gemini |
 | 🖼️ **Image Poster** | Manage generated images and post them to DeviantArt, X, Bluesky and others |
+
+## Guides
+
+- **[Overview](docs/PromptingHelperOverview.pdf)** (PDF, 11 pages): what the app does, on a few
+  pages.
+- **[User guide](docs/PromptingHelperGuide.pdf)** (PDF, 145 pages): the whole app, chapter by
+  chapter, from the first install to a finished storyboard. The chapters are Getting Started,
+  Prompt Builder, Characters, Model Library, Workflows, Example Images, Regions, References &
+  Masks, AI Analysis, Lineup & Tuning, Canvas, Storyboard, and Backup & Moving.
 
 ## Install
 
