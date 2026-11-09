@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/valerie-4659/promptinghelper-app/releases/latest"><b>⬇ Download</b></a> ·
+  <a href="docs/PromptingHelperQuickstart.pdf">Quickstart (PDF)</a> ·
   <a href="docs/PromptingHelperOverview.pdf">Overview (PDF)</a> ·
   <a href="docs/PromptingHelperGuide.pdf">User guide (PDF)</a> ·
   <a href="https://github.com/valerie-4659/promptinghelper-app/wiki">Wiki</a> ·
@@ -40,6 +41,9 @@ desktop application for keeping that straight.
 
 ## Guides
 
+- **[Quickstart](docs/PromptingHelperQuickstart.pdf)** (PDF, 16 pages): from the download to a
+  first picture — install, ComfyUI, the Crosspost Helper, the browser extension, a first
+  character, models from Civitai and a first job.
 - **[Overview](docs/PromptingHelperOverview.pdf)** (PDF, 11 pages): what the app does, on a few
   pages.
 - **[User guide](docs/PromptingHelperGuide.pdf)** (PDF, 145 pages): the whole app, chapter by
